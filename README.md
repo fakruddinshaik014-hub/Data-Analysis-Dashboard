@@ -12,7 +12,7 @@ Provide actionable insights to improve revenue and operational efficiency.
 
 
 Data Used
-<a href="https://github.com/yourusername/RepositoryName/blob/main/large_sales_data_practice.xlsx">
+<a href="https://raw.githubusercontent.com/yourusername/RepositoryName/main/large_sales_data_practice.xlsx" target="_blank">
 Download Sales Dataset
 </a>
 
